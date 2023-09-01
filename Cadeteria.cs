@@ -84,5 +84,5 @@ namespace EspacioDeCadeteria
         public int Telefono { get => telefono; set => telefono = value; }
         public string? DatosDeReferencia { get => datosDeReferencia; set => datosDeReferencia = value; }
         }
-    }
+    } 
 }
